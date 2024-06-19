@@ -5,15 +5,13 @@ This project demonstrates how to create a product list with filtering functional
 
 ## Prerequisites
 
-- Python 3.x
-- Django 3.x or higher
-- django-filter
+- Python 3.12
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/django-product-filter.git
+    git clone https://github.com/sachnaror/django-product-filter.git
     cd django-product-filter
     ```
 
@@ -42,25 +40,8 @@ This project demonstrates how to create a product list with filtering functional
 
 ## Project Structure
 
-project/
-├── project/
-│ ├── init.py
-│ ├── settings.py
-│ ├── urls.py
-│ ├── wsgi.py
-│ └── asgi.py
-├── products/
-│ ├── init.py
-│ ├── admin.py
-│ ├── apps.py
-│ ├── filters.py
-│ ├── models.py
-│ ├── templates/
-│ │ └── product/
-│ │ └── product_list.html
-│ ├── urls.py
-│ └── views.py
-├── manage.py
 
 ![alt text](image.png)
 
+
+![alt text](image-1.png)
