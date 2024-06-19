@@ -62,5 +62,5 @@ project/
 │ └── views.py
 ├── manage.py
 
-
+![alt text](image.png)
 
