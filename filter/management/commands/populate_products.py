@@ -4,7 +4,7 @@ import random
 
 from django.core.management.base import BaseCommand
 from faker import Faker
-from products.models import Product
+from filter.models import Product
 
 
 class Command(BaseCommand):
